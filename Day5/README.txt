@@ -1,0 +1,1 @@
+I have done Hypothesis spaces, Inductive bias, Generalization, Bias variance trade-off.
